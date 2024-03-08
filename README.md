@@ -19,7 +19,7 @@ cd Social-Media
 Step 3:- Create a virtual environment:
 
 ```bash
-python3 -m venv env
+python -m venv env
 ```
 Step 4:- Activate the Virtual Environment:
 
