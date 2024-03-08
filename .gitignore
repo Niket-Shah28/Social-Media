@@ -1,0 +1,6 @@
+venv
+static
+profilePic
+db.sqlite3
+application/migrations
+social_media/__pycache__
